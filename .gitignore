@@ -1,0 +1,17 @@
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### IDE ###
+.idea
+.vscode
+
+### Environment ###
+.envrc
+.direnv
+.env
+.env.test
+
+### Node.js ###
+node_modules
